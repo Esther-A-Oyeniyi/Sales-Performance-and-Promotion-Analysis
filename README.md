@@ -74,6 +74,7 @@ The dashboard provides a visual summary of sales trends, account-type performanc
 - **Sales Performance Raw Data.xlsx** — anonymised version of the original dataset used for the analysis.
 - **Cleaned and Analysis of Sales_Promotion.xlsx** — cleaned dataset, calculations, analysis and final dashboard.
 - **Dashboard.png** — visual summary of the completed analysis.
+- **Sales Performance Analysis - Findings and Recommendations.pptx** — presentation of the analysis, key findings and business recommendations.
   
 ## Skills Demonstrated
 
